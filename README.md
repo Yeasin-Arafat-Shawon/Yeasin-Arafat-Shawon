@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="user" />
+</div>
+<br /><br />
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Yeasin-Arafat-Shawon&style=flat-square&color=blue" alt="Github Badge"/>
   <div id="badges">
