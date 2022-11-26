@@ -6,13 +6,13 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Yeasin-Arafat-Shawon&style=flat-square&color=blue" alt="Github Badge"/>
   <div id="badges">
-    <a href="">
+    <a href="https://www.linkedin.com/in/yeasin-arafat-shawon/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
-    <a href="">
+    <a href="https://www.instagram.com/yeasin_arafat_shawon/">
       <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
     </a>
-    <a href="">
+    <a href="https://twitter.com/YeasinArafatSha">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
     </a>
   </div>
@@ -35,7 +35,7 @@ Reliable Intern studying Computer Science seeks an internship opportunity to exp
 
 - :zap: In my free time, I work on new projects and read tech articles.
 
-- :mailbox: How to reach me: <a href="mailto:ethicalhackar.acc@gmail.com">Send Mail</a> | <a href="">Resume</a>
+- :mailbox: How to reach me: <a href="mailto:ethicalhackar.acc@gmail.com">Send Mail</a> | <a href="https://drive.google.com/file/d/1AFGxHNRV1CA68FjQLTGXBSHxnQ3ndlc7/view?usp=share_link">Resume</a>
 
 ---
 
